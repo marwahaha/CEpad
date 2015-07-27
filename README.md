@@ -1,3 +1,5 @@
+As of July 27th, CEpad is abandonned for a better project, [Codestream](https://github.com/Djyp/Codestream), forked from [Codebox](https://github.com/CodeboxIDE/codebox).
+
 CEpad
 =====
 
